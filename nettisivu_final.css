@@ -1,0 +1,188 @@
+html {
+    font-family: Arial, sans-serif;
+    scroll-behavior: smooth;
+    background-color: #F1F2EB;
+
+}
+
+p {
+    color: #4A4A48;
+}
+
+
+header {
+
+    display: flex;
+
+   background-color: #D8DAD3;
+
+    position: sticky;
+
+    top: 0;
+
+}
+
+
+nav{
+width: 50%;
+}
+
+header h1 {
+    width: 50%;
+    color: #4A4A48
+}
+
+
+ul {
+    display:flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+
+}
+
+li a {
+    background-color: #A4C2A5;
+    color: #4A4A48;
+    width: 10rem;
+    display: block;
+    text-align: center;
+    line-height: 3rem;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #566246;
+}
+
+
+
+
+
+
+main h1 {
+    text-align: center;
+    color: #4A4A48;
+}
+
+
+main img {
+    width: 60%;
+    margin: auto;
+    display: flex;
+}
+
+#Products {
+    padding: 1rem 5rem 0 5rem;
+    display: block;
+    text-align: left;
+}
+
+#Productsh1 {
+    padding: 5rem 0 0 0;
+}
+
+#Productsimg img{
+    width: 70%;
+    aspect-ratio: 25/11;
+}
+
+#Productsp {
+    padding: 1rem 5rem 0 5rem;
+    display: block;
+    text-align: left;
+}
+
+
+h3 {
+    color: #4A4A48;
+}
+
+
+
+section figure{
+
+    margin: 0 1rem 1rem 0;
+    border: 1px black solid;
+    border-radius: 8px;
+}
+
+figcaption {
+    text-align: center;
+    color: #4A4A48;
+}
+
+
+
+article {
+    width: calc(100% / 3);
+    padding: 1rem;
+    box-sizing: border-box;
+
+}
+
+section {
+
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+
+
+
+article img {
+    border-radius: 8px 8px 0 0;
+    width: 100%;
+    height: auto;
+
+}
+
+footer h1 {
+    padding: 0 0 0 3rem;
+    width: 50%;
+    color: #4A4A48;
+}
+
+span {
+    display: block;
+    padding: 1rem 0 0 1rem;
+    background-color: #D8DAD3;
+    width: 70%;
+}
+
+span p {
+    margin: 0;
+}
+
+
+footer {
+    padding: 5rem 0 0 0;
+}
+
+footer figure {
+    display: flex;
+
+}
+
+
+
+
+footer img {
+
+    width: 30%;
+
+    padding: 2rem;
+
+    background-color: #D8DAD3;
+
+    height: 30%;
+
+    aspect-ratio: 1/1;
+
+
+
+}
+
+
