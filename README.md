@@ -1,4 +1,4 @@
 # Nettisivu
 
-- [nettisivu_final.html](nettisivu_final.html)
-- [nettisivu_final.css](nettisivu_final.css)
+- [nettisivu_final(ver2).html](nettisivu_final(ver2).html)
+- [nettisivu_final(ver2).css](nettisivu_final(ver2).css)
