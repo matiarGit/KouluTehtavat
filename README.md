@@ -62,7 +62,6 @@
 ## Moduuli 4
 
 - [4_1.html](4_1.html)
-- [4_1.js](4_1.js)
 - [4_2.html](4_2.html)
 - [4_2.js](4_2.js)
 - [4_2.html](4_2.html)
